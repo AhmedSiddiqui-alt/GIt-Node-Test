@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory of Git and Node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bto learn Git And Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSiddiqui-alt/GIt-Node-Test.git"
+  },
+  "author": "Muhammad Ahmed Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedSiddiqui-alt/GIt-Node-Test/issues"
+  },
+  "homepage": "https://github.com/AhmedSiddiqui-alt/GIt-Node-Test#readme",
+  "dependencies": {
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
